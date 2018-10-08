@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 1. nummer 1
 2. nummer 2
-   1. nummer 2a
-   1. nummer 2b
+   2. nummer 2a
+   2. nummer 2b
 
 ### Markdown
 
