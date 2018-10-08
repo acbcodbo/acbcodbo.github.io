@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/acbcodbo/acbcodbo.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+1. nummer 1
+1. nummer 2
+  1. nummer 2a
+  1. nummer 2b
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
